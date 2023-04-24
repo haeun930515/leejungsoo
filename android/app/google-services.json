@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "30998161537",
+    "project_id": "leejungsoo-3b087",
+    "storage_bucket": "leejungsoo-3b087.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:30998161537:android:8b243fb998dda220cc8580",
+        "android_client_info": {
+          "package_name": "com.example.leejungsoo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "30998161537-5hkofvuld3n80ii6kilm7cgh62ba7e0u.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAoYRdVYLSnaHErh6YtWGPGU4O8S3Sx8CY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "30998161537-5hkofvuld3n80ii6kilm7cgh62ba7e0u.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
